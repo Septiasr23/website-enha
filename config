@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = Septiasr23
+	email = septiasr09@gmail.com
+[remote "origin"]
+	url = https://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github.com/Septiasr23/website-enha.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
